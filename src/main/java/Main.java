@@ -2,8 +2,7 @@
 import business.AdventureManager;
 import business.BusinessException;
 import business.PersonatgeManager;
-import persistence.JSONPersonatgesDAO;
-import persistence.PersonatgesDAO;
+
 import presentation.Controller;
 import presentation.Menu;
 
